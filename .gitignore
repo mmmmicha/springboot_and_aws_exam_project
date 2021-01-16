@@ -4,3 +4,7 @@ application-oauth.properties
 
 # class
 *.class
+
+# bin
+*.bin
+*.idx
