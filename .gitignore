@@ -9,4 +9,3 @@ application-real-db.properties
 # bin
 *.bin
 *.idx
-.travis.yml
