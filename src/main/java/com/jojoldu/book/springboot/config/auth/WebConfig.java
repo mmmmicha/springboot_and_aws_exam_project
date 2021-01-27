@@ -1,4 +1,4 @@
-package com.jojoldu.book.springboot.comfig.auth;
+package com.jojoldu.book.springboot.config.auth;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Configuration;

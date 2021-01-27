@@ -1,6 +1,6 @@
 package com.jojoldu.book.springboot.web;
 
-import com.jojoldu.book.springboot.comfig.auth.SecurityConfig;
+import com.jojoldu.book.springboot.config.auth.SecurityConfig;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;

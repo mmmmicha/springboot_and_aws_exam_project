@@ -1,6 +1,6 @@
-package com.jojoldu.book.springboot.comfig.auth;
+package com.jojoldu.book.springboot.config.auth;
 
-import com.jojoldu.book.springboot.comfig.auth.dto.SessionUser;
+import com.jojoldu.book.springboot.config.auth.dto.SessionUser;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.MethodParameter;
 import org.springframework.stereotype.Component;
